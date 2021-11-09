@@ -1,1 +1,3 @@
-# helloworld_claudia
+# maven-project
+
+Simple Maven Project
